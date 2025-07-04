@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|f:\\unity\\project\\2022.3\\roguelikedemo\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A3E17A-EE78-9792-DCE3-DF39452C4619}|Assembly-CSharp-Editor.csproj|f:\\unity\\project\\2022.3\\roguelikedemo\\assets\\editor\\autospriteslicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A3E17A-EE78-9792-DCE3-DF39452C4619}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\autospriteslicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoSpriteSlicer.cs",
+              "DocumentMoniker": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Editor\\AutoSpriteSlicer.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\AutoSpriteSlicer.cs",
+              "ToolTip": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Editor\\AutoSpriteSlicer.cs",
+              "RelativeToolTip": "Assets\\Editor\\AutoSpriteSlicer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAtwE8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:13:46.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowJQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T07:13:29.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
