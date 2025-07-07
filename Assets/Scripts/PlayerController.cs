@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    // 变量声明
+    #region
     public float moveSpeed = 10f;
     private float acceleration = 8f;   // 加速度
     private float deceleration = 8f;   // 减速度
@@ -37,6 +39,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer spriteRenderer;
     private Animator anim;
+    #endregion
 
     // Start is called before the first frame update
     void Start()

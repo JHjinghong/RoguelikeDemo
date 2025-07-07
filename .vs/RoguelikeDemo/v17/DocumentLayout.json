@@ -7,8 +7,24 @@
       "RelativeMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A3E17A-EE78-9792-DCE3-DF39452C4619}|Assembly-CSharp-Editor.csproj|F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\assets\\editor\\autospriteslicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A3E17A-EE78-9792-DCE3-DF39452C4619}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\autospriteslicer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\assets\\scripts\\mapgenerate\\dungeoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapgenerate\\dungeoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\assets\\scripts\\mapgenerate\\dungeonvisualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapgenerate\\dungeonvisualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\assets\\scripts\\mapgenerate\\bspdungeongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapgenerate\\bspdungeongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\assets\\scripts\\mapgenerate\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapgenerate\\dungeonmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\assets\\scripts\\mapgenerate\\tiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5394A1-1B45-1350-C4E3-9220B411604B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapgenerate\\tiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,23 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AutoSpriteSlicer.cs",
-              "DocumentMoniker": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Editor\\AutoSpriteSlicer.cs",
-              "RelativeDocumentMoniker": "Assets\\Editor\\AutoSpriteSlicer.cs",
-              "ToolTip": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Editor\\AutoSpriteSlicer.cs",
-              "RelativeToolTip": "Assets\\Editor\\AutoSpriteSlicer.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAtwE8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T10:13:46.081Z"
             },
             {
               "$type": "Document",
@@ -44,9 +48,74 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAYwFwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T07:13:29.808Z",
+              "WhenOpened": "2025-07-07T10:15:57.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DungeonController.cs",
+              "DocumentMoniker": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\MapGenerate\\DungeonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapGenerate\\DungeonController.cs",
+              "ToolTip": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\MapGenerate\\DungeonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapGenerate\\DungeonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:33:28.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DungeonVisualizer.cs",
+              "DocumentMoniker": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\MapGenerate\\DungeonVisualizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapGenerate\\DungeonVisualizer.cs",
+              "ToolTip": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\MapGenerate\\DungeonVisualizer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapGenerate\\DungeonVisualizer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:32:14.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BSPDungeonGenerator.cs",
+              "DocumentMoniker": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\MapGenerate\\BSPDungeonGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapGenerate\\BSPDungeonGenerator.cs",
+              "ToolTip": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\MapGenerate\\BSPDungeonGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapGenerate\\BSPDungeonGenerator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:24:24.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DungeonMap.cs",
+              "DocumentMoniker": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\MapGenerate\\DungeonMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapGenerate\\DungeonMap.cs",
+              "ToolTip": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\MapGenerate\\DungeonMap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapGenerate\\DungeonMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:23:22.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TileType.cs",
+              "DocumentMoniker": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\MapGenerate\\TileType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapGenerate\\TileType.cs",
+              "ToolTip": "F:\\Unity\\Project\\2022.3\\RoguelikeDemo\\Assets\\Scripts\\MapGenerate\\TileType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapGenerate\\TileType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:22:35.844Z",
               "EditorCaption": ""
             }
           ]
